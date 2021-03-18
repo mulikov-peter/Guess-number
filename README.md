@@ -1,11 +1,10 @@
 # Guess-number
 
 This is one of my first tiny OOP apps.
-An app built with HTML, SASS & JS.
+An app built with HTML, CSS & JS.
 
 To run this project, install it lockally using npm:
 npm install
-npm run compile:sass
 npm run start
 
 Production build:
